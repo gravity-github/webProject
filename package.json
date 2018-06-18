@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Simple test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gravity",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3"
+  }
+}
